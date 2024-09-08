@@ -1,0 +1,47 @@
+body {
+  background-size: cover;
+  margin: 30px;
+  font-family:Arial, Helvetica, sans-serif; 
+  background:rgb(247, 231, 233)
+}
+.outset {
+  border-style: outset;
+  width:230px;
+  text-align: center;
+  background: rgb(251, 183, 194);
+}
+
+.style {
+     li:hover {
+     color:rgb(255, 0, 0);
+     a:hover {
+      color:red;
+     }
+}
+}
+#doan1 {
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #95e5f0;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 30px 34px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #f090c0;
+  color:black;
+}
+}
